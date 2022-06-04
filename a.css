@@ -1,0 +1,20 @@
+#cl1{
+    color: red;
+    text-align: center;
+}
+#cl2{
+    color: blue;
+    text-align: center;
+}
+h3{
+    color: brown;
+    text-align: right;
+}
+#name{
+    color: yellowgreen;
+    text-align: center;
+}
+#btn{
+    background-color:blue;
+    color: aqua;
+}
